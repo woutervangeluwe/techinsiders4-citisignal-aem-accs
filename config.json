@@ -4,7 +4,7 @@
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fn4LKb6mdPTdUf9PNm6nVK/graphql",
       "headers": {
         "all": {
-          "Store": "default"
+          "Store": "citisignal"
         },
         "cs": {
           "Magento-Store-Code": "citisignal",
